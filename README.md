@@ -22,3 +22,8 @@ git clone https://github.com/your-username/java-code-repository.git
 2.Open the desired program or project in your preferred IDE.
 3.Compile and run the code to see the output.
 
+
+##Connect with me: Let's connect! If you have questions, suggestions, or just want to chat about coding, feel free to reach out to me on Facebook or Instagram.
+
+FB: https://www.facebook.com/profile.php?id=61553470680229&mibextid=ZbWKwL Instagram: https://www.instagram.com/leave_shaikat_alone?igsh=MTN0cWx3bHhxaHhuYg==
+
